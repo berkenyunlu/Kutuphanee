@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kutuphane.UI", "Kutuphanee\Kutuphane.UI.csproj", "{B56737A1-5488-459E-84B3-6D65A873EAD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kutuphane.DB", "Kutuphane.DB\Kutuphane.DB.csproj", "{7449DB66-80B5-48BD-A645-95B0DC46BD1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B56737A1-5488-459E-84B3-6D65A873EAD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B56737A1-5488-459E-84B3-6D65A873EAD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B56737A1-5488-459E-84B3-6D65A873EAD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B56737A1-5488-459E-84B3-6D65A873EAD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7449DB66-80B5-48BD-A645-95B0DC46BD1E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7449DB66-80B5-48BD-A645-95B0DC46BD1E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7449DB66-80B5-48BD-A645-95B0DC46BD1E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7449DB66-80B5-48BD-A645-95B0DC46BD1E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6CC07B5E-AA68-42D6-B598-2E2F714AAC2F}
+	EndGlobalSection
+EndGlobal
